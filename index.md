@@ -1,33 +1,32 @@
 # Hybridizing Knowledge-based and Machine Learning Models for Climate Prediction
 
-## 
+## Progress Reports
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+TBA
 
-```markdown
-Syntax highlighted code block
+## Papers
 
-# Header 1
-## Header 2
-### Header 3
 
-- Bulleted
-- List
 
-1. Numbered
-2. List
+## Repositories
 
-**Bold** and _Italic_ and `Code` text
+[1-Dimensional CHyPP Code (Matlab)](https://github.com/awikner/CHyPP)
 
-[Link](url) and ![Image](src)
-```
+## Data
 
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
+## People
 
-### Jekyll Themes
+### University of Maryland, College Park
+Prof. Edward Ott, PI, Dept. of Electrical and Computer Engineering and Dept. of Physics
+Prof. Michelle Girvan, Department of Physics
+Prof. Brian Hunt, Department of Mathematics
+Dhruvit Patel, Graduate Student, Department of Physics
+Alexander Wikner, Graduate Student, Department of Physics
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/awikner/actm-umd-tamu-prllc/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+### Texas A&M University
+Prof. Istvan Szunyogh, Department of Atmospheric Sciences
+Troy Arcomano, Graduate Student, Department of Atmospheric Sciences
+Mitchell Tsokatos, Graduate Student, Department of Atmospheric Science
 
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+### Potomac Research, LLC
+Dr. Andrew Pomerance
