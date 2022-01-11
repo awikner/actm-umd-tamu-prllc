@@ -24,8 +24,9 @@ description: >- # this means to ignore newlines until "baseurl:"
   This program is based on combining two components. The first is a conventional knowledge-based model of the evolution of the climate. The second is a machine learning component employing a spatial grid of many, relatively small, reservoir computers trained in parallel on observation-based state evolution data. This approach has been formulated by us through previous DARPA-funded research. We call our scheme Combined Hybrid Parallel Prediction (CHyPP, pronounced \"chip\").
 
   In past work, we have successfully implemented CHyPP for weather forecasting. For this implementation, the knowledge-based component of the hybrid was a low-resolution, but realistic, fully 3-dimensional atmospheric global circulation model known as SPEEDY. SPEEDY was formulated for climate studies, and incorporates terrestrial geography, including representations of the Earth\'s continents, oceans, ice covered regions, and mountain ranges. This preliminary weather forecasting work has demonstrated the great potential of the CHyPP approach. In particular, it uses the data-driven machine learning component to effectively compensate for the inability of conventional, purely knowledge-based geophysical models to appropriately capture sub-grid scale dynamics, which are known to have crucial fundamental effects on the dynamics at the resolved scale. Such results lead us to anticipate that CHyPP may also facilitate large improvements in climate and tipping-point prediction relative to what is attainable using conventional, purely knowledge-based modeling.
-baseurl: "/actm-umd-tamu-prllc" # the subpath of your site, e.g. /blog
+baseurl: "/actm-umd-tamu-prllc/" # the subpath of your site, e.g. /blog
 url: "https://awikner.github.io" # the base hostname & protocol for your site, e.g. http://example.com
+domain: "awikner.github.io"
 twitter_username: 
 github_username:  awikner
 
@@ -33,6 +34,8 @@ github_username:  awikner
 remote_theme: zivong/jekyll-theme-hydure
 plugins:
   - jekyll-feed
+  - jekyll-paginate
+  - jekyll-seo-tag
   - jekyll-remote-theme
 
 cover: cover.jpg
