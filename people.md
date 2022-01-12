@@ -5,7 +5,7 @@ title: Our Team
 permalink: /people/
 ---
 
-## University of Maryland, College Park
+## University of Maryland, College Park ![University of Maryland, College Park](images/umd_logo.png)
 [**Prof. Edward Ott**](https://scholar.google.com/citations?user=z7boxkkAAAAJ&hl=en), PI, Dept. of Electrical and Computer Engineering and Dept. of Physics
 
 [**Prof. Michelle Girvan**](https://scholar.google.com/citations?user=npKBI-oAAAAJ&hl=en), Department of Physics
@@ -16,7 +16,7 @@ permalink: /people/
 
 [**Alexander Wikner**](https://scholar.google.com/citations?user=J7dAtysAAAAJ&hl=en), Graduate Student, Department of Physics
 
-## Texas A&M University
+## Texas A&M University ![Texas A&M University](images/tamu_logo.png)
 [**Prof. Istvan Szunyogh**](https://scholar.google.com/citations?user=L4JW_JUAAAAJ&hl=en), Department of Atmospheric Sciences
 
 [**Troy Arcomano**](https://scholar.google.com/citations?user=SBeD6doAAAAJ&hl=en), Graduate Student, Department of Atmospheric Sciences

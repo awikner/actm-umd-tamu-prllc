@@ -38,7 +38,7 @@ plugins:
   - jekyll-seo-tag
   - jekyll-remote-theme
 
-cover: cover.jpg
+cover: images/cover.jpg
 
 # Exclude from processing.
 # The following items will not be processed, by default.
