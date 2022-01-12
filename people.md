@@ -1,6 +1,8 @@
 ---
 #cover: cover.jpg
-title: People
+title: Our Team
+
+permalink: /people/
 ---
 
 ## University of Maryland, College Park

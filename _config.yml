@@ -18,7 +18,7 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: Hybridizing Knowledge-based and Machine Learning Models for Climate Prediction
+title: Climate Prediction using Hybrid Models
 email: awikner1@umd.edu
 description: >- # this means to ignore newlines until "baseurl:"
   This program is based on combining two components. The first is a conventional knowledge-based model of the evolution of the climate. The second is a machine learning component employing a spatial grid of many, relatively small, reservoir computers trained in parallel on observation-based state evolution data. This approach has been formulated by us through previous DARPA-funded research. We call our scheme Combined Hybrid Parallel Prediction (CHyPP, pronounced \"chip\").
