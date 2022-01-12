@@ -1,6 +1,7 @@
 ---
 #cover: cover.jpg
 title: Program Summary
+permalink: /summary/
 ---
 ## Introduction
 This program is based on combining two components. The first is a conventional knowledge-based model of the evolution of the climate. The second is a machine learning component employing a spatial grid of many, relatively small, reservoir computers trained in parallel on observation-based state evolution data. This approach has been formulated by us through previous DARPA-funded research. We call our scheme Combined Hybrid Parallel Prediction (CHyPP, pronounced "chip").
