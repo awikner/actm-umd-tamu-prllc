@@ -292,6 +292,7 @@ PLATFORMS
 DEPENDENCIES
   github-pages (~> 219)
   jekyll-feed (~> 0.12)
+  jekyll-paginate
   jekyll-remote-theme
   tzinfo (~> 1.2)
   tzinfo-data

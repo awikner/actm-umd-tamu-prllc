@@ -3,3 +3,11 @@ _site
 .jekyll-cache
 .jekyll-metadata
 vendor
+
+# Microsoft office files
+*.doc
+*.docx
+*.emf
+
+# Python
+*.py
