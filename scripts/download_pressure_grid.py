@@ -1,19 +1,3 @@
----
-#cover: cover.jpg
-title: Data Sets
-permalink: /data/
----
-{% include base.html %}
-## ERA5
-From the [European Centre for Medium-Range Forecasts (ECMWF)](https://www.ecmwf.int/en/forecasts/datasets/reanalysis-datasets/era5):
-> ERA5 provides hourly estimates of a large number of atmospheric, land and oceanic climate variables.
-> The data cover the Earth on a 30km grid and resolve the atmosphere using 137 levels from the surface 
-> up to a height of 80km. ERA5 includes information about uncertainties for all variables at reduced 
-> spatial and temporal resolutions.
-
-We provide the following <code>python</code> script to download data from ERA5. This script may be downloaded <a href="{{base}}/../scripts/download_pressure_grid.py" download>here</a>. Follow the commented instructions at the beginning of the script before running it.
-
-```python
 # Created by Troy Arcomano (https://github.com/Arcomano1234)
 
 ### Prerequisites ###
@@ -27,9 +11,7 @@ We provide the following <code>python</code> script to download data from ERA5. 
 #and grid 
 
 ###EXAMPLES###
-# python download_pressure_grid.py 1990 1991 -path=/example/path/ --np=2  --vars temperature fraction_of_cloud_cover --plev 1000 500 --grid 0.5 0.5 
-# This will download hourly temperature and fraction_of_cloud_cover data at 1000 and 500 hPa from 1990 through 1991 to /example/path/ directory 
-# using 2 processes. The grid will be 0.5 by 0.5 degrees
+#python download_pressure_grid.py 1990 1991 -path=/example/path/ --np=2  --vars temperature fraction_of_cloud_cover --plev 1000 500 --grid 0.5 0.5 will download hourly temperature and fraction_of_cloud_cover data at 1000 and 500 hPa from 1990 through 1991 to /example/path/ directory using 2 processes. The grid will be 0.5 by 0.5 degrees
 
 import cdsapi
 from calendar import monthrange
@@ -123,4 +105,3 @@ func = partial(year_loop,c,args)
 pool = Pool(args.np)
 pool.map(func,years)
 pool.close()
-```

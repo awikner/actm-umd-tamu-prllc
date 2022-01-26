@@ -10,4 +10,6 @@ vendor
 *.emf
 
 # Python
-*.py
+docx_to_markdown.py
+images/2022-01-13-ACTM-UMD-progress-report1-media/convert_to_png.py
+_posts/convert_to_png.py
