@@ -2,7 +2,7 @@
 <browserconfig>
     <msapplication>
         <tile>
-            <square150x150logo src="https://awikner.github.io/actm-umd-tamu-prllc/images/mstile-150x150.png"/>
+            <square150x150logo src="images/mstile-150x150.png"/>
             <TileColor>#da532c</TileColor>
         </tile>
     </msapplication>
