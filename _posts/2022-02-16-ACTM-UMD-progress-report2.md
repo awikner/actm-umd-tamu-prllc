@@ -13,6 +13,6 @@ image-folder: 2022-02-16-ACTM-UMD-progress-report2-media
     adobeDCView.previewFile({
       content:{location: {url: "{{base}}/images/{{page.image-folder}}/ACTM_DARPA_Progress_Report_2__Feb__2022_.pdf"}},
       metaData:{ fileName: "ACTM_DARPA_Progress_Report_2__Feb__2022_.pdf" }
-    }, {});
+    }, {embedMode: "IN_LINE"});
   });
 </script>
