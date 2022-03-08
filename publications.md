@@ -4,7 +4,7 @@ title: Publications
 permalink: /publications/
 ---
 
-Arcomano, T., Szunyogh, I., Wikner, A., Pathak, J., Hunt, B., & Ott, E. (2021). ; [Hybrid Approach to Atmospheric Modeling that Combines Machine Learning with a Physics-Based Numerical Model](https://doi.org/10.1002/essoar.10507548.3). Earth and Space Science Open Archive, 37. Preprint.
+Arcomano, T., Szunyogh, I., Wikner, A., Pathak, J., Hunt, B. R., & Ott, E. (2022). [A hybrid approach to atmospheric modeling that combines machine learning with a physics-based numerical model](https://doi.org/10.1029/2021MS002712). Journal of Advances in Modeling Earth Systems, 14, e2021MS002712.
 
 Wikner, A., Pathak, J., Hunt, B., Szunyogh, I., Girvan, M., & Ott, E. (2021). [Using data assimilation to train a hybrid forecast system that combines machine-learning and knowledge-based components](https://doi.org/10.1063/5.0048050). Chaos: An Interdisciplinary Journal of Nonlinear Science, 31(5), 053114.
 
