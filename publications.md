@@ -3,6 +3,7 @@
 title: Publications
 permalink: /publications/
 ---
+Patel, D., & Ott, E. (2022). [Using Machine Learning to Anticipate Tipping Points and Extrapolate to Post-Tipping Dynamics of Non-Stationary Dynamical Systems](https://arxiv.org/abs/2207.00521). arXiv (Preprint).
 
 Arcomano, T., Szunyogh, I., Wikner, A., Pathak, J., Hunt, B. R., & Ott, E. (2022). [A hybrid approach to atmospheric modeling that combines machine learning with a physics-based numerical model](https://doi.org/10.1029/2021MS002712). Journal of Advances in Modeling Earth Systems, 14, e2021MS002712.
 

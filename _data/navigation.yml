@@ -2,7 +2,9 @@
   url: /
 - title: Program Summary
   url: /summary/
-- title: Presentations and Reports
+- title: Presentations
+  url: /presentations/
+- title: Reports
   url: /reports/
 - title: Publications
   url: /publications/
