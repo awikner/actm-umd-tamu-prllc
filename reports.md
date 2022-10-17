@@ -1,8 +1,8 @@
 ---
 # cover: cover.jpg
-title: Progress Reports
+title: Presentations and Reports
 permalink: /reports/
-category: reports
+categories: [reports, presentations]
 layout: page-posts
 ---
 
