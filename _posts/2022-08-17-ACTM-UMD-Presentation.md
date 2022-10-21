@@ -11,8 +11,8 @@ image-folder: 2022-08-17-ACTM-UMD-Presentation-media
   document.addEventListener("adobe_dc_view_sdk.ready", function(){
     var adobeDCView = new AdobeDC.View({clientId: "fb1b04b20faa4b3c81d632bd8a00270e", divId: "adobe-dc-view"});
     adobeDCView.previewFile({
-      content:{location: {url: "{{base}}/images/{{page.image-folder}}/darpa_actm_vsv_presentation_July28_22.pdf"}},
-      metaData:{ fileName: "darpa_actm_vsv_presentation_July28_22.pdf" }
+      content:{location: {url: "{{base}}/images/{{page.image-folder}}/2022-08-17-ACTM-UMD-Presentation.md"}},
+      metaData:{ fileName: "2022-08-17-ACTM-UMD-Presentation.md" }
     }, {embedMode: "SIZED_CONTAINER"});
   });
 </script>
