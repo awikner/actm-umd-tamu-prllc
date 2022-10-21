@@ -2,7 +2,7 @@
 layout: post
 title: August ACTM PI Meeting Presentation
 category: presentations
-image-folder: 2022-08-17-ACTM-UMD-Presentation-media
+image-folder: 2022-08-17-ACTM-UMD-Presentation.md
 ---
 {% include base.html %}
 <div id="adobe-dc-view" style="height: 576px; width: 800px;"></div>
