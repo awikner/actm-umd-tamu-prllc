@@ -3,6 +3,10 @@
 title: Publications
 permalink: /publications/
 ---
+Arcomano, T., Szunyogh, I., Wikner, A., Hunt, B. R., & Ott, E. (2022). [A Hybrid Atmospheric Model Incorporating Machine Learning Can Capture Dynamical Processes Not Captured by Its Physics-Based Component](https://doi.org/10.22541/essoar.167214579.97903618/v1) ESS Open Archive (Preprint).
+
+Wikner, A., Harvey, J., Girvan, M., Hunt, B. R., Pomerance, A., Antonsen, T., & Ott, E. (2022). [Stabilizing Machine Learning Prediction of Dynamics: Noise and Noise-inspired Regularization](https://doi.org/10.48550/arXiv.2211.05262). axXiv (Preprint).
+
 Patel, D., & Ott, E. (2022). [Using Machine Learning to Anticipate Tipping Points and Extrapolate to Post-Tipping Dynamics of Non-Stationary Dynamical Systems](https://arxiv.org/abs/2207.00521). arXiv (Preprint).
 
 Arcomano, T., Szunyogh, I., Wikner, A., Pathak, J., Hunt, B. R., & Ott, E. (2022). [A hybrid approach to atmospheric modeling that combines machine learning with a physics-based numerical model](https://doi.org/10.1029/2021MS002712). Journal of Advances in Modeling Earth Systems, 14, e2021MS002712.
